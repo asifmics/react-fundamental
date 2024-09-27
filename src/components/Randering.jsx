@@ -14,7 +14,7 @@ function Randering({ numbers, persons }) {
       <ul>
         {persons.map((person) => (
           <li>
-            {person.name} and his asd age is {person.age}
+            {person.name} and his age is {person.age}
           </li>
         ))}
       </ul>
