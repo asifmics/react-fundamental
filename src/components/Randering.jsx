@@ -9,7 +9,7 @@ function Randering({ numbers, persons }) {
         ))}
       </ul>
 
-      <p> Object randering:</p>
+      <p> Object randering list:</p>
 
       <ul>
         {persons.map((person) => (
